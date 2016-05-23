@@ -1,7 +1,7 @@
 # SHE Crazy Ball Game
 
 ## about the Game
-    this game is EDX embedded systems project using TM4C123 kit
+    this game is EDX embedded systems online course project using TM4C123 kit
      
 ##How to play: 
     The crazy ball continue to move while you try to keep it from falling out of the screen by moving bar.
